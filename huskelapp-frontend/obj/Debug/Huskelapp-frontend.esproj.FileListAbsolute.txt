@@ -1,0 +1,2 @@
+C:\Users\mariu\Desktop\total\Huskelapp\Huskelapp-Frontend\obj\Debug\Huskelapp-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\mariu\Desktop\total\Huskelapp\Huskelapp-Frontend\obj\Debug\Huskelapp-frontend.esproj.CoreCompileInputs.cache
