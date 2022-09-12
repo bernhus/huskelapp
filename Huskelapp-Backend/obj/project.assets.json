@@ -10167,11 +10167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariu\\Desktop\\total\\Huskelapp\\Huskelapp-Backend\\Huskelapp-Backend.csproj",
+      "projectUniqueName": "C:\\Users\\mariu\\Desktop\\total\\todo\\huskelapp-backend\\Huskelapp-Backend.csproj",
       "projectName": "Huskelapp-Backend",
-      "projectPath": "C:\\Users\\mariu\\Desktop\\total\\Huskelapp\\Huskelapp-Backend\\Huskelapp-Backend.csproj",
+      "projectPath": "C:\\Users\\mariu\\Desktop\\total\\todo\\huskelapp-backend\\Huskelapp-Backend.csproj",
       "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariu\\Desktop\\total\\Huskelapp\\Huskelapp-Backend\\obj\\",
+      "outputPath": "C:\\Users\\mariu\\Desktop\\total\\todo\\huskelapp-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",

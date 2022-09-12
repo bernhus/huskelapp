@@ -14,7 +14,8 @@ namespace Huskelapp_Backend.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseNpgsql(Configuration.GetConnectionString("WebApiDatabase"));
+           // options.UseNpgsql(Configuration.GetConnectionString("WebApiDatabase")); //brukt til postgres
+           options.UseSqlServer(Configuration.GetConnectionString("WebApiDatabase"));
         }
 
         public DbSet <Todo> Todos { get; set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/K2GdYsYZWuLySnoYl2rRD7x58NmERCUe32mIG2vIusUDKV+AKLIo448DmbMvG8ACdeSwHd5uuo4O4FPrl9mHQ==",
+  "dgSpecHash": "639O47Dt/QGQwfTnYJVfrxewppglhhcf8fKsIL/NZNI7lL6gxMBThpBv5M0nkjjLnJfyvgZ/y02zqD1ny0Ctwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mariu\\Desktop\\total\\Huskelapp\\Huskelapp-Backend\\Huskelapp-Backend.csproj",
+  "projectFilePath": "C:\\Users\\mariu\\Desktop\\total\\todo\\huskelapp-backend\\Huskelapp-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mariu\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
